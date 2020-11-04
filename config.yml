@@ -1,0 +1,45 @@
+baseURL: "https://ilham-bintang.github.io"
+title: Ilham Bintang
+paginate: 8
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archives
+          url: /archives/
+          weight: 5
+        - name: Tags
+          url: /tags/
+          weight: 10
+    
+    profileMode:
+      enabled: true
+      title: Ilham Bintang
+      imageUrl: "abin.jpeg"
+      imageTitle: Abin
+      subtitle: "🧑🏻‍💻 Machine Learning Engineer | 👨🏻‍🎓 Binusian | 🌴 Lombok Island"
+      buttons:
+        - name: Blog
+          url: posts
+        - name: Tags
+          url: tags
+
+    socialIcons:
+      - name: twitter
+        url: "https://github.com/ilham-bintang"
+      - name: linkedin
+        url: "https://linkedin.com/in/nullphantom"
+      - name: github
+        url: "https://github.com/ilham-bintang"
