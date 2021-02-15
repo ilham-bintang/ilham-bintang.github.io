@@ -1,4 +1,4 @@
-baseURL: "https://ilham-bintang.github.io"
+baseURL: "https://ilhambintang.com"
 title: Ilham Bintang
 paginate: 8
 theme: hugo-PaperMod
@@ -20,6 +20,9 @@ languages:
         - name: Archives
           url: /archives/
           weight: 5
+        - name: Posts
+          url: /posts/
+          weight: 5
         - name: Tags
           url: /tags/
           weight: 10
@@ -31,7 +34,7 @@ languages:
       imageTitle: Abin
       subtitle: "🧑🏻‍💻 Machine Learning Engineer | 👨🏻‍🎓 Binusian | 🌴 Lombok Island"
       buttons:
-        - name: Blog
+        - name: My Writing
           url: posts
         - name: Tags
           url: tags
@@ -43,3 +46,7 @@ languages:
         url: "https://linkedin.com/in/nullphantom"
       - name: github
         url: "https://github.com/ilham-bintang"
+      - name: twitter
+        url: "https://twitter.com/ilham__py"
+      - name: email
+        url: "mailto:ilham_bintang@outlook.com"
