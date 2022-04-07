@@ -5,7 +5,7 @@ theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-# googleAnalytics: UA-123-45
+googleAnalyticsID: "G-310104294"
 
 minify:
   disableXML: true
@@ -32,7 +32,7 @@ languages:
       title: Ilham Bintang
       imageUrl: "abin.jpeg"
       imageTitle: Abin
-      subtitle: "🧑🏻‍💻 Machine Learning Engineer | 👨🏻‍🎓 Binusian | 🌴 Lombok Island"
+      subtitle: "🧑🏻‍💻 Machine Learning Engineer | 👨🏻‍🎓 Master of Computer Science | 🌴 Lombok Island"
       buttons:
         - name: My Writing
           url: posts
@@ -40,8 +40,6 @@ languages:
           url: tags
 
     socialIcons:
-      - name: twitter
-        url: "https://github.com/ilham-bintang"
       - name: linkedin
         url: "https://linkedin.com/in/nullphantom"
       - name: github
@@ -49,4 +47,4 @@ languages:
       - name: twitter
         url: "https://twitter.com/ilham__py"
       - name: email
-        url: "mailto:ilham_bintang@outlook.com"
+        url: "mailto:ilhambintang.ai@gmail.com"
